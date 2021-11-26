@@ -47,3 +47,13 @@ top: 1px;
     right: 4px;
 
 }
+
+.card{
+background-color: #3cb878;
+color: white;
+width: 180px;
+text-align: center;
+padding: 20px 0;
+box-shadow: 0 0 7px 2px gray;
+
+}
